@@ -43,5 +43,4 @@ As a data analyst, I explored the Coursera Course Dataset to uncover key insight
 
 ## 📎 How to Run
 
-1. Download the notebook.
-2. Open in JupyterLab or Jupyter Notebook.# Coursera_Course_Analysis
+1. Open in Google Colab in order to access the interactive plotly charts.
